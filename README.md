@@ -21,3 +21,4 @@ Resistor: https://bit.ly/2MUegJC - https://amzn.to/3sEsQbv </br>
 Toggle Switch: https://bit.ly/2B4ADcs - https://amzn.to/3fyZnMe </br>
 Soldering Tools: http://bit.ly/2Kbr9hQ - https://amzn.to/3dgwCRO </br>
 # Circuit diagram of Breadboard and PCB
+![](Schematic_HalloweenPumpkinBoard.png) </br> </br>
